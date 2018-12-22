@@ -1766,7 +1766,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-color: #000000;
+  background-color: #020459;
 }
 .cid-qTkA127IK8 H1 {
   text-align: center;
@@ -2234,7 +2234,7 @@ body {
 .cid-r8sXVUOSYv {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #000000;
+  background-color: #020459;
 }
 .cid-r8sXVUOSYv .mbr-section-subtitle {
   color: #767676;
@@ -2255,7 +2255,7 @@ body {
   color: #ffffff;
 }
 .cid-r8sXVUOSYv .mbr-testimonial .panel-item {
-  background-color: #000000;
+  background-color: #020459;
 }
 .cid-r8sXVUOSYv .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -2684,7 +2684,7 @@ body {
 .cid-r8sU559OXX {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(45deg, #000000, #000000);
+  background: linear-gradient(45deg, #020459, #020459);
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -3076,7 +3076,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r8sUkm7GHn {
-  background: linear-gradient(45deg, #000000, #000000);
+  background: linear-gradient(45deg, #020459, #020459);
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -3470,7 +3470,7 @@ body {
 .cid-rbRrC1fMsh {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #000000;
+  background-color: #020459;
 }
 .cid-rbRrC1fMsh .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -3532,7 +3532,7 @@ body {
 .cid-rbREnJ1CUn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #000000;
+  background-color: #020459;
 }
 .cid-rbREnJ1CUn .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -3555,11 +3555,11 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #000000;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #000000) !important;
+  background: linear-gradient(to left, #000000, #000000) !important;
 }
 .cid-rbREnJ1CUn .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -3585,11 +3585,11 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
+  background: #000000 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #000000) !important;
+  background: linear-gradient(to left, #000000, #000000) !important;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -3981,7 +3981,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r8sUQkeUSS {
-  background-color: #000000;
+  background-color: #020459;
 }
 .cid-r8sUQkeUSS .form-container {
   transition: all .2s;
