@@ -3075,8 +3075,47 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-r8sUkm7GHn {
-  background: linear-gradient(45deg, #020459, #020459);
+.cid-rh1WHjhxz3 {
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background-color: #020459;
+}
+.cid-rh1WHjhxz3 .counter-container {
+  color: #767676;
+}
+.cid-rh1WHjhxz3 .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-rh1WHjhxz3 .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-rh1WHjhxz3 .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-rh1WHjhxz3 .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #073b4c;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.cid-rh1WHjhxz3 .mbr-text LI {
+  color: #ffffff;
+}
+.cid-rh1YJxo0Kg {
+  background-color: #020459;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
