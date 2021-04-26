@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "2dphotonics",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2465,7 +2465,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#c0e1cb\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#c0e1cb\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "suk4NgqJJn",
           "_anchor": "gallery1-2l",
           "_protectedParams": [
@@ -2486,25 +2486,25 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/kezerashvili-xenes-1652x1218.png",
-                "thumb": "@PROJECT_PATH@/assets/images/kezerashvili-xenes-1652x1218-800x590.png",
+                "image": "@PROJECT_PATH@/assets/images/abstract-martins-2021-1682x1304.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abstract-martins-2021-1682x1304-800x620.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>2020 APS March Meeting - Abstract (talk). Pres. R. Ya. Kezerashvili.&nbsp;</b>Rydberg Excitons in buckled two-dimensional materials in presence of parallel magnetic and electric fields.",
-                "active": true
+                "caption": "<b>2020 APS March Meeting - Abstract (poster). Pres.  G. P. Martins. </b>Quantum entanglement between two excitons in graphene under strain.",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/serafin-oral-1320x1012.png",
-                "thumb": "@PROJECT_PATH@/assets/images/serafin-oral-1320x1012-800x613.png",
+                "image": "@PROJECT_PATH@/assets/images/martins-poster-2021-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/martins-poster-2021-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>2020 APS March Meeting - Abstract (talk). Pres. P. Serafin.&nbsp;</b>Driven dipolariton transistors using van der Waals TMDC with channel guides.",
+                "caption": "<b>2020 APS March Meeting - Poster. Pres.  G. P. Martins.</b> Quantum entanglement between two excitons in graphene under strain.",
                 "active": false
               },
               {
@@ -2525,6 +2525,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/serafin-oral-1320x1012.png",
+                "thumb": "@PROJECT_PATH@/assets/images/serafin-oral-1320x1012-800x613.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>2020 APS March Meeting - Abstract (talk). Pres. P. Serafin.&nbsp;</b>Driven dipolariton transistors using van der Waals TMDC with channel guides.",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/kezerashvili-xenes-1652x1218.png",
+                "thumb": "@PROJECT_PATH@/assets/images/kezerashvili-xenes-1652x1218-800x590.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>2020 APS March Meeting - Abstract (talk). Pres. R. Ya. Kezerashvili.&nbsp;</b>Rydberg Excitons in buckled two-dimensional materials in presence of parallel magnetic and electric fields.",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/serafin-poster-file-1842x1430.png",
                 "thumb": "@PROJECT_PATH@/assets/images/serafin-poster-file-1842x1430-800x621.png",
                 "alt": "",
@@ -2532,6 +2558,19 @@
                 "customStyle1": "display-7",
                 "caption": "<b>2020 APS March Meeting - Poster</b>.<b> Pres. P. Serafin.</b> Dipolariton propagation in a van der Waals TMDC with psi-shaped channel guides and buffered channel branches.&nbsp;",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/spiridonova-tmdc-1652x1218.png",
+                "thumb": "@PROJECT_PATH@/assets/images/spiridonova-tmdc-1652x1218-800x590.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>2020 APS March Meeting - Abstract (talk). Pres. A. Spiridonova. </b>Magnetoexcitons in Transition-Metal Dichalcogenides Monolayers and Double-Layer Heterostructures.",
+                "active": true
               }
             ]
           }
